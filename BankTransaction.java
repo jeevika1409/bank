@@ -1,4 +1,4 @@
-package Bank;
+
 
 public class BankTransaction {
     String accountName; // SBI / Canara / Bank_of_Baroda
